@@ -1,0 +1,41 @@
+*{
+    padding: 10px;
+    margin: 10px;
+}
+body{
+    background-color: rgb(169, 180, 12);
+    font-family: Arial, sans-serif;
+}
+h1{
+    color: darkviolet;
+    text-align: center;
+}
+h2{
+    color: rgb(10, 21, 168);
+    text-align: center;
+}
+h3{
+    color: rgb(14, 88, 36);
+    text-align: center;
+}
+hr{
+    border: 1px dotted greenyellow;
+}
+time{
+    font-size: 24px;
+    color: springgreen;
+    font-weight: bold;
+    margin-top: 10px;
+    display: block;
+}
+.fecha{
+    background-color: #dd7119;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(173, 167, 167, 0.1);
+    text-align: right;
+    transition: transform 0.3s ease;
+}
+.fecha:hover {
+    transform: translateY(-5px);    
+}
