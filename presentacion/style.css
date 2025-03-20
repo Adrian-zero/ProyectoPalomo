@@ -33,7 +33,7 @@ time{
     padding: 20px;
     border-radius: 12px;
     box-shadow: 0 4px 8px rgba(173, 167, 167, 0.1);
-    text-align: right;
+    text-align: center;
     transition: transform 0.3s ease;
 }
 .fecha:hover {
